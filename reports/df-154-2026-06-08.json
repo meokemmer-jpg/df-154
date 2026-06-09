@@ -1,0 +1,54 @@
+{
+  "df": "DF-154",
+  "iso_timestamp": "2026-06-08T19:57:10.891274+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "mentions_per_brand": {
+    "Atlas": 42,
+    "Helio": 18,
+    "Northstar": 31
+  },
+  "mentions_total": 91,
+  "sentiment_per_brand": {
+    "Atlas": {
+      "negative": 4,
+      "neutral": 14,
+      "positive": 24
+    },
+    "Helio": {
+      "negative": 2,
+      "neutral": 9,
+      "positive": 7
+    },
+    "Northstar": {
+      "negative": 4,
+      "neutral": 11,
+      "positive": 16
+    }
+  },
+  "source": "mock",
+  "top_channels": [
+    "search",
+    "social",
+    "news",
+    "forums"
+  ],
+  "viral_events": [
+    {
+      "brand": "Atlas",
+      "channel": "social",
+      "mentions": 19,
+      "tag": "launch-spike"
+    },
+    {
+      "brand": "Northstar",
+      "channel": "news",
+      "mentions": 12,
+      "tag": "press-cycle"
+    }
+  ],
+  "welle": "25"
+}
