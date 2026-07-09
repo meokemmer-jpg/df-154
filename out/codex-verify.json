@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLDS",
+  "reason": "Der Test nutzt echte Aggregation und Sentiment-Logik mit Gegenfällen wie unbekannter Brand-Filterung sowie positiven, negativen und neutralen Texten, die nachweislich unterschiedliche Outputs erzeugen.",
+  "ts": "2026-07-08T15:07:18.857657+00:00"
+}
